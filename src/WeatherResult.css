@@ -44,4 +44,7 @@
     .weather-result{
         flex-direction: column;
     }
+    .weather-details{
+        width: 100%;
+    }
 }
